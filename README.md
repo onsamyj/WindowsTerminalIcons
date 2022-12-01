@@ -11,8 +11,6 @@ PNG Icons for use with [Windows Terminal](https://github.com/microsoft/terminal)
 
 Right-clicking on Windows Terminal icon in Windows Taskbar, or pressing `˅` in the title bar of the app, would show a drop-down menu, something like this:
 
-<p align="center">
-![Screenshot](screenshot.png)
-</p>
+<div style="text-align: center"><img src="screenshot.png" alt="Jump List"></div>
 
 Made in [Inkscape](https://inkscape.org/), with help from [Oxipng](https://github.com/shssoichiro/oxipng). Feel free to use as you wish!
