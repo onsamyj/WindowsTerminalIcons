@@ -1,5 +1,7 @@
 # Windows Terminal Icons
 
+[![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
+
 PNG Icons for use with [Windows Terminal](https://github.com/microsoft/terminal).
 
 - ![Bash](Icons/Bash.png) Bash/Linux/Etc.
@@ -13,4 +15,4 @@ Right-clicking on Windows Terminal icon in Windows Taskbar, or pressing `˅` in 
 
 ![Screenshot](screenshot.png)
 
-Made in [Inkscape](https://inkscape.org/), with help from [Oxipng](https://github.com/shssoichiro/oxipng). Feel free to use as you wish!
+Made in [Inkscape](https://inkscape.org/), with help from [Oxipng](https://github.com/shssoichiro/oxipng). Feel free to use [as you wish](https://unlicense.org/)!
