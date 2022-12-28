@@ -15,4 +15,6 @@ Right-clicking on Windows Terminal icon in Windows Taskbar, or pressing `˅` in 
 
 ![Screenshot](screenshot.png)
 
-Made in [Inkscape](https://inkscape.org/), with help from [Oxipng](https://github.com/shssoichiro/oxipng). Feel free to use [as you wish](https://unlicense.org/)!
+There are also SVG files, if you want.
+
+Made in [Inkscape](https://inkscape.org/) and [Visual Studio Code](https://code.visualstudio.com/), with help from [Oxipng](https://github.com/shssoichiro/oxipng). Feel free to use [as you wish](https://unlicense.org/)!
