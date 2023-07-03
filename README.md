@@ -1,3 +1,11 @@
+<!--
+
+  ↑ ↑
+=(o o)=
+(") (")
+
+-->
+
 # Windows Terminal Icons
 
 [![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
@@ -8,6 +16,7 @@ PNG Icons for use with [Windows Terminal](https://github.com/microsoft/terminal)
 - ![CMD](Icons/CMD.png) Command Prompt
 - ![CMD Admin](Icons/CMD-Admin.png) Command Prompt Admin
 - ![File Manager](Icons/FileManager.png) File Manager, like [FAR](https://farmanager.com/), [Midnight Commander](https://midnight-commander.org/), etc.
+- ![Nushell](Icons/Nushell.png) Nushell
 - ![PowerShell](Icons/PowerShell.png) PowerShell
 - ![PowerShell Admin](Icons/PowerShell-Admin.png) PowerShell Admin
 
