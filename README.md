@@ -8,7 +8,7 @@
 
 # Windows Terminal Icons
 
-[![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
+[![CC0](https://img.shields.io/badge/CC0-Public_Domain-informational?logo=unlicense)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 PNG Icons for use with [Windows Terminal](https://github.com/microsoft/terminal).
 
